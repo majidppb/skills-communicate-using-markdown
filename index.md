@@ -5,4 +5,4 @@
 ##### Header 5
 ###### Header 6
 
-Markdown headers example
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
